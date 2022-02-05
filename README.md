@@ -1,2 +1,5 @@
-# arduino-rgb-kodlar-
-Arduio için kullanabileceğiniz RGB ledini çalıştırma kodları
+# Arduino RGB led kodları
+
+Devre şeması:
+
+Aklınıza takılan bir şey olursa https://www.slipyme.xyz/discord adresinden ulaşabilirsiniz.
